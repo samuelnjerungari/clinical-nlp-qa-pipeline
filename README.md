@@ -70,7 +70,9 @@ pip install -r requirements.txt
 
 **Samuel Njeru**  
 Clinical NLP Annotation & QA Specialist  
-🔗 [GitHub](https://github.com/samuelnjerungari)
+
+- [🔗 LinkedIn Profile](https://www.linkedin.com/in/samuel-n-ngari)  
+- [💻 GitHub Profile](https://github.com/samuelnjerungari)
 
 ---
 
