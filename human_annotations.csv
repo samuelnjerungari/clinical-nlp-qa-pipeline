@@ -1,0 +1,4 @@
+text,start,end,label
+Aspirin,0,7,DRUG
+500 mg,8,14,DOSAGE
+headache,22,30,CONDITION

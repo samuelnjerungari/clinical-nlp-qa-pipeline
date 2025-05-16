@@ -1,0 +1,4 @@
+start,end,text,human_label,machine_label,match_type,error_type
+0,7,Aspirin,DRUG,DRUG,True Positive,
+8,14,500 mg,DOSAGE,STRENGTH,Partial Match,Label Mismatch
+22,30,headache,CONDITION,CONDITION,True Positive,
